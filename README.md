@@ -12,10 +12,15 @@ These are the cellphones which will be offered to the customers that day:
 Customers will have the chance to buy one cellphone if they are lucky. They will not
 know the price of the item until they have paid the price, but they want to buy it
 because the discount is very attractive.
+
 The sales responsible prepares three different types of offers: "Aifon X", "Juan-wei
 Mate Profesional", "Shang Tsung S9". Each offer has a random discount between
-30% - 40%. When an offer is prepared it is placed on the website which will allow
-the customers to buy it. The sales responsible needs a random time between 0,5
+30% - 40%. 
+
+When an offer is prepared it is placed on the website which will allow
+the customers to buy it. 
+
+The sales responsible needs a random time between 0,5
 and 1 seconds to create an offer and upload it on the website.
 It is requested to write the code that simulates the behavior of the operation of the
 website.
